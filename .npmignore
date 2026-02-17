@@ -1,0 +1,10 @@
+src/
+public/
+node_modules/
+*.config.ts
+*.config.js
+.eslintrc
+tsconfig.json
+index.html
+.git
+.gitignore
