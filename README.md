@@ -1,4 +1,4 @@
-```markdown
+
 # 🏗️ Canvas Grid UI
 
 [![npm version](https://img.shields.io/npm/v/canvas-grid-ui.svg)](https://www.npmjs.com/package/canvas-grid-ui)
@@ -8,7 +8,7 @@
 
 Sistema de grids animado de alto rendimiento con Visual Engines para React y Astro. No es solo un layout, es un **Visual Engine** que permite aplicar físicas reales, efectos 3D y sistemas de iluminación reactiva mediante Framer Motion y Tailwind CSS.
 
----
+
 
 ## 📦 Instalación
 
