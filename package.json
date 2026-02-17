@@ -1,6 +1,6 @@
 {
   "name": "canvas-grid-ui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sistema de grids animado de alto rendimiento con Visual Engines para React",
   "type": "module",
   "main": "./dist/canvas-grid-ui.umd.js",
@@ -27,7 +27,7 @@
   ],
   "author": "noldee",
   "license": "MIT",
- "repository": {
+  "repository": {
     "type": "git",
     "url": "https://github.com/noldee/canvas-grid-ui.git"
   },
